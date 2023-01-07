@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+#Checkout the project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[https://extraordinary-sopapillas-0867fe.netlify.app/](https://extraordinary-sopapillas-0867fe.netlify.app/)
 
 ## Available Scripts
 
